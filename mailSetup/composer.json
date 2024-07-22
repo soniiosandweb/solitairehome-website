@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.15",
+        "guzzlehttp/guzzle": "^7.8",
+        "elasticemail/elasticemail-php": "^4.0"
+    }
+}
