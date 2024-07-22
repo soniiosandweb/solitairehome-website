@@ -4,7 +4,7 @@ export const homePage = "/";
 
 export const contactNumber = "+91 98888 77183";
 
-export const contactUsEmail = "mani.bsb@gmail.com";
+export const contactUsEmail = "info@solitairehomeconsultant.com";
 
 export const propertyCardButton = "Get Details";
 
